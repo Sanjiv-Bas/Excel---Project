@@ -75,3 +75,6 @@ Data Visualization: Power BI / Excel Dashboard (update if needed)
 Data Source: Structured bike resale dataset
 
 Design: Interactive charts, slicers, KPI cardsject
+
+<img width="916" height="364" alt="image" src="https://github.com/user-attachments/assets/7c1ecf49-0537-445b-a439-1682f33e562b" />
+
